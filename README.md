@@ -16,7 +16,7 @@ Excemplo: quantas vezes o nome "Ricardo" aparece em cada estado.
 3. python main.py Rafael
 
 
-🛠️ Tecnologias
+🖥️ Tecnologias
 
 - Python 3
 - requests (para consumir a API do IBGE)

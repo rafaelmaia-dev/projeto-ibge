@@ -21,14 +21,13 @@ Excemplo: quantas vezes o nome "Ricardo" aparece em cada estado.
 
 Saída esperada:
 
-Estado: SP -> 20.322
-Estado: RJ -> 32.439
+-> São Paulo: 560.51
+-> Distrito Federal: 539.69
 
 
 🖥️ Tecnologias
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
- Python 3
+- Python 3 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 - requests (para consumir a API do IBGE)
 
 

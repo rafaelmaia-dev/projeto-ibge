@@ -1,4 +1,4 @@
-<h2 align="center">📊 Frequência de Nomes pelo IBGE</h2>
+<h2 align="center">🛠️ Frequência de Nomes pelo IBGE</h2>
 
 ## 👨‍💻 About Project  
 

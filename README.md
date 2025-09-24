@@ -1,19 +1,17 @@
 <h2 align="center">🛠️ Frequência de Nomes pelo IBGE</h2>
 
-## 👨‍💻 About Project  
-
-> Python Project - IBGE API  
+> Projeto em Python.  
 
 <p align="center">
-Este projeto faz requisições à API do IBGE para consultar a frequência de nomes por estado brasileiro (UF).  
+Este mini projeto consulta a API do IBGE para obter dados de frequência de nomes por UFs ao redor do Brasil. Ideal para análises ou curiosidades!  
 É útil para <b>análises estatísticas</b>, <b>pesquisas acadêmicas</b> ou mesmo por <b>curiosidade</b>.  
 <br><br>
-💡 Exemplo: Quantas vezes o nome <b>"Rafael"</b> aparece em cada estado?
+💡 Exemplo: quantas vezes o nome "Rafael" aparece em cada estado.
 </p>
 
 ---
 
-### 💼 Current Focus  
+### 💻 Foco da API:  
 - Trabalhar com **APIs** reais (IBGE)  
 - Praticar **Python para análise de dados**  
 - Implementar **tratamento de erros e boas práticas**  
@@ -21,21 +19,7 @@ Este projeto faz requisições à API do IBGE para consultar a frequência de no
 
 ---
 
-### 🎓 Education  
-- 🎓 Baseado nos conteúdos de **Sistemas de Informação**  
-
----
-
-### 💬 Let's Connect:  
-
-- 🔗 **LinkedIn**: [https://linkedin.com/in/rafael-maia-508554232](https://linkedin.com/in/rafael-maia-508554232)  
-- 📧 **E-mail**: [rafaelnetomaiar@gmail.com](mailto:rafaelnetomaiar@gmail.com)  
-
----
-
-### 🛠️ Technologies and Tools  
-
-#### 🖥️ Languages & Frameworks  
+### 🛠️ Tecnologias:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 </p>

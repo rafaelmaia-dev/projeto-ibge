@@ -1,42 +1,50 @@
-<h1 align="left">Frequência de Nomes pelo IBGE</h1>
+<h2 align="center">📊 Frequência de Nomes pelo IBGE</h2>
 
-<p align="left">Este mini projeto consulta a APi do IBGE para obter dados de frequência de nomes por UFs ao redor do Brasil. Ideal para análises ou curiosidades!
-Excemplo: quantas vezes o nome "Ricardo" aparece em cada estado..</p>
+## 👨‍💻 About Project  
+
+> Python Project - IBGE API  
+
+<p align="center">
+Este projeto faz requisições à API do IBGE para consultar a frequência de nomes por estado brasileiro (UF).  
+É útil para <b>análises estatísticas</b>, <b>pesquisas acadêmicas</b> ou mesmo por <b>curiosidade</b>.  
+<br><br>
+💡 Exemplo: Quantas vezes o nome <b>"Rafael"</b> aparece em cada estado?
+</p>
 
 ---
 
-#### 🖥️ Como rodar:
+### 💼 Current Focus  
+- Trabalhar com **APIs** reais (IBGE)  
+- Praticar **Python para análise de dados**  
+- Implementar **tratamento de erros e boas práticas**  
+- Organizar um projeto com **estrutura limpa e documentação clara**  
+
+---
+
+### 🎓 Education  
+- 🎓 Baseado nos conteúdos de **Sistemas de Informação**  
+
+---
+
+### 💬 Let's Connect:  
+
+- 🔗 **LinkedIn**: [https://linkedin.com/in/rafael-maia-508554232](https://linkedin.com/in/rafael-maia-508554232)  
+- 📧 **E-mail**: [rafaelnetomaiar@gmail.com](mailto:rafaelnetomaiar@gmail.com)  
+
+---
+
+### 🛠️ Technologies and Tools  
+
+#### 🖥️ Languages & Frameworks  
 <p>
- 1. Clone this repository:  
-```bash
-  git clone https://github.com/rafaelmaia-dev/projeto-ibge.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 </p>
 
-#### ☁️ Databases & Cloud
+#### ☁️ API  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://img.icons8.com/?size=512&id=11683&format=png" width="45" title="IBGE API" />
 </p>
 
-#### 🧪 Dev & Testing
+#### 🧪 Dev & Testing  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" />
-</p>
-
-#### 💡 Others
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" />
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="45" title="Word"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45" title="Excel"/>
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="45" title="PowerPoint"/>
-</p>
-
-
-### 🛠️ Tecnologias:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-
-
-
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=

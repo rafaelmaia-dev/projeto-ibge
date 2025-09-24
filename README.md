@@ -6,7 +6,7 @@
 <p align="left">Este mini projeto consulta a APi do IBGE para obter dados de frequência de nomes por UFs ao redor do Brasil. Ideal para análises ou curiosidades!
 Excemplo: quantas vezes o nome "Ricardo" aparece em cada estado.
 
-##<h2 align="left"> 💻 Como rodar:
+<h2 align="left"> 💻 Como rodar:
 
 1. Clone este repositório:
    ```bash

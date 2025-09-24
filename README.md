@@ -29,4 +29,12 @@ Saída esperada:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 
 
+📂 Estrutura do projeto:
+├── main.py           # Script principal
+├── requirements.txt  # Dependências do projeto
+├── README.md         # Documentação
+└── LICENSE           # Licença
+
+
+
 

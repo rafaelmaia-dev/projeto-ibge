@@ -20,9 +20,8 @@ Este mini projeto consulta a API do IBGE para obter dados de frequência de nome
 ---
 
 ### 🖥️ Como usar:
-1. Clone este repositório:
-```bash
-git clone https://github.com/rafaelmaia-dev/projeto-ibge
+```
+1. Clone este repositório: git clone https://github.com/rafaelmaia-dev/projeto-ibge
 
 2. pip install requirements.txt
 

@@ -1,9 +1,9 @@
-# Frequência de Nomes pelo IBGE
+# 🛠️ Frequência de Nomes pelo IBGE
 
 Este mini projeto consulta a APi do IBGE para obter dados de frequência de nomes por UFs ao redor do Brasil. Ideal para análises ou curiosidades!
 Excemplo: quantas vezes o nome "Ricardo" aparece em cada estado.
 
-## 💻 Como rodar
+## 💻 Como rodar:
 
 1. Clone este repositório:
    ```bash
@@ -27,6 +27,6 @@ Estado: RJ -> 32.439
 - requests (para consumir a API do IBGE)
 
 
-![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+![Python]([https://img.shields.io/badge/python-3.10-blue.svg](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))
 ![License](https://img.shields.io/badge/license-MIT-green)
 

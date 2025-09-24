@@ -1,4 +1,4 @@
-# 🛠️ <h2 align="center">Frequência de Nomes pelo IBGE h2>
+# 🛠️ <h2 align="left">Frequência de Nomes pelo IBGE
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)

@@ -29,9 +29,7 @@ Este mini projeto consulta a API do IBGE para obter dados de frequência de nome
 ```
 
 ```
-3. Execute o script:
-
-python main.py Rafael
+3. Execute o script: python main.py Rafael
 ```
 
 ```

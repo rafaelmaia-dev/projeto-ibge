@@ -22,13 +22,19 @@ Este mini projeto consulta a API do IBGE para obter dados de frequência de nome
 ### 🖥️ Como usar:
 ```
 1. Clone este repositório: git clone https://github.com/rafaelmaia-dev/projeto-ibge
+```
 
+```
 2. pip install requirements.txt
+```
 
-3. Execute o script "main.py"
+```
+3. Execute o script:
 
 python main.py Rafael
+```
 
+```
 SAÍDA ESPERADA:
 
 -> São Paulo: 560.51

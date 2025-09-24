@@ -24,7 +24,7 @@ Saída esperada:
 -> Distrito Federal: 539.69
 
 
-#### 🖥️ Tecnologias:
+####<h2 align="left"> 🖥️ Tecnologias:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 

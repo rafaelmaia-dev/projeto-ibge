@@ -1,4 +1,4 @@
-# 🛠️ Frequência de Nomes pelo IBGE
+# 🛠️ <h2 Frequência de Nomes pelo IBGE h2>
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -25,7 +25,7 @@ Saída esperada:
 -> Distrito Federal: 539.69
 
 
-#### 🖥️ Línguagens:
+#### 🖥️ Tecnologias:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 

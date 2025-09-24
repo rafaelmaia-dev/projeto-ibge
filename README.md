@@ -1,6 +1,6 @@
 # 🛠️ Frequência de Nomes pelo IBGE
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 
@@ -27,7 +27,8 @@ Estado: RJ -> 32.439
 
 🖥️ Tecnologias
 
-- Python 3
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+ Python 3
 - requests (para consumir a API do IBGE)
 
 

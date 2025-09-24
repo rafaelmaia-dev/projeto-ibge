@@ -15,8 +15,18 @@ Excemplo: quantas vezes o nome "Ricardo" aparece em cada estado.
 
 3. python main.py Rafael
 
+   Saída esperada:
+
+   Estado: SP -> 20.322
+   Estado: RJ -> 32.439
+
 
 🖥️ Tecnologias
 
 - Python 3
 - requests (para consumir a API do IBGE)
+
+
+![Python](https://img.shields.io/badge/python-3.9-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+

@@ -1,24 +1,38 @@
-<h2 align="left">🛠️ Frequência de Nomes pelo IBGE
+<h2 align="center">What's up guys! I'm Rafael Maia 👋</h2>
 
-Este mini projeto consulta a APi do IBGE para obter dados de frequência de nomes por UFs ao redor do Brasil. Ideal para análises ou curiosidades!
-Excemplo: quantas vezes o nome "Ricardo" aparece em cada estado.
+<p align="center">Este mini projeto consulta a APi do IBGE para obter dados de frequência de nomes por UFs ao redor do Brasil. Ideal para análises ou curiosidades!
+Excemplo: quantas vezes o nome "Ricardo" aparece em cada estado..</p>
 
+---
 
-## 💻 Como rodar:  
+### 🛠️ Tecnologias:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 
-1. **Clone este repositório**  
-```bash
-git clone https://github.com/rafaelmaia-dev/projeto-ibge
+#### 🖥️ Languages & Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
+</p>
 
+#### ☁️ Databases & Cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+</p>
 
-2. pip install -r requirements.txt
+#### 🧪 Dev & Testing
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" />
+</p>
 
-
-3. python main.py Rafael
-
-
--> São Paulo: 560.51  
--> Distrito Federal: 539.69
+#### 💡 Others
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" />
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="45" title="Word"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="45" title="PowerPoint"/>
+</p>
 
 
 

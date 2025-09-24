@@ -1,6 +1,6 @@
-<h1 align="center">Frequência de Nomes pelo IBGE</h1>
+<h1 align="left">Frequência de Nomes pelo IBGE</h1>
 
-<p align="center">Este mini projeto consulta a APi do IBGE para obter dados de frequência de nomes por UFs ao redor do Brasil. Ideal para análises ou curiosidades!
+<p align="left">Este mini projeto consulta a APi do IBGE para obter dados de frequência de nomes por UFs ao redor do Brasil. Ideal para análises ou curiosidades!
 Excemplo: quantas vezes o nome "Ricardo" aparece em cada estado..</p>
 
 ---
@@ -9,7 +9,8 @@ Excemplo: quantas vezes o nome "Ricardo" aparece em cada estado..</p>
 <p>
  1. Clone this repository:  
 ```bash
-  git clone https://github.com/rafaelmaia-dev/projeto-ibge.</p>
+  git clone https://github.com/rafaelmaia-dev/projeto-ibge.
+</p>
 
 #### ☁️ Databases & Cloud
 <p>

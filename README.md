@@ -1,9 +1,8 @@
-🛠️ Frequência de Nomes pelo IBGE  
+<h2 align="left">🛠️ Frequência de Nomes pelo IBGE  
 
 Este mini projeto consulta a APi do IBGE para obter dados de frequência de nomes por UFs ao redor do Brasil. Ideal para análises ou curiosidades!
 Excemplo: quantas vezes o nome "Ricardo" aparece em cada estado.
 
----
 
 ## 💻 Como rodar:  
 

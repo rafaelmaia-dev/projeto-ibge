@@ -6,7 +6,7 @@
 <p align="left">Este mini projeto consulta a APi do IBGE para obter dados de frequência de nomes por UFs ao redor do Brasil. Ideal para análises ou curiosidades!
 Excemplo: quantas vezes o nome "Ricardo" aparece em cada estado.
 
-##<h1 align="left"> 💻 Como rodar:
+##<h2 align="left"> 💻 Como rodar:
 
 1. Clone este repositório:
    ```bash
@@ -18,22 +18,19 @@ Excemplo: quantas vezes o nome "Ricardo" aparece em cada estado.
 
 3. python main.py Rafael
 
-<h1 align="left">Saída esperada:
+<h2 align="left">Saída esperada:
 
 -> São Paulo: 560.51
 -> Distrito Federal: 539.69
 
 
-####<h1 align="left"> 🖥️ Tecnologias:
+####<h2 align="left"> 🖥️ Tecnologias:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 
 
-📂 Estrutura do projeto:
-├── main.py           # Script principal
-├── requirements.txt  # Dependências do projeto
-├── README.md         # Documentação
-└── LICENSE           # Licença
+<h1 align="left">📂 Estrutura do projeto:
+
 
 
 

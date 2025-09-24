@@ -19,16 +19,28 @@ Este mini projeto consulta a API do IBGE para obter dados de frequência de nome
 
 ---
 
+### 🖥️ Como usar:
+1. Clone este repositório:
+```bash
+git clone https://github.com/rafaelmaia-dev/projeto-ibge
+
+2. pip install requirements.txt
+
+3. Execute o script "main.py"
+
+python main.py Rafael
+
+SAÍDA ESPERADA:
+
+-> São Paulo: 560.51
+-> Distrito Federal: 539.69
+
+
 ### 🛠️ Tecnologias:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 </p>
 
-#### ☁️ API  
-<p>
-  <img src="https://img.icons8.com/?size=512&id=11683&format=png" width="45" title="IBGE API" />
-</p>
 
-#### 🧪 Dev & Testing  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=
+
+

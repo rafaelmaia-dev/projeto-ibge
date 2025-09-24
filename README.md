@@ -4,8 +4,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 
-Este mini projeto consulta a APi do IBGE para obter dados de frequência de nomes por UFs ao redor do Brasil. Ideal para análises ou curiosidades!
-Excemplo: quantas vezes o nome "Ricardo" aparece em cada estado.
+<p align="center">Este mini projeto consulta a APi do IBGE para obter dados de frequência de nomes por UFs ao redor do Brasil. Ideal para análises ou curiosidades!
+Excemplo: quantas vezes o nome "Ricardo" aparece em cada estado.</p>
 
 ## 💻 Como rodar:
 
